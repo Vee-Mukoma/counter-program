@@ -42,11 +42,20 @@ button {
 #decreaseBtn {
     background-color: #f472b6;
 }
+#decreaseBtn:hover {
+    background-color: #c55790;
+}
 
 #resetBtn {
     background-color: #a78bfa;
 }
+#resetBtn:hover {
+    background-color: #7965b6;
+}
 
 #increaseBtn {
     background-color: #818cf8;
+}
+#increaseBtn:hover {
+    background-color: #6973ce;
 }
